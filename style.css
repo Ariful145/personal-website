@@ -1,0 +1,102 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+
+}
+
+.sizer{
+    background: url(images/header-bg.png);
+    background-size: 100%;
+    
+
+}
+
+
+.details{
+    float: left;
+    line-height: 5px;
+    width: 35%;
+    margin-left: 5%;
+    padding-right: 2%;
+    
+}
+.details img{
+    width: 100%;
+    padding-top: 100px;
+}
+
+.details h1{
+    color: rgba(238, 2, 100, 0.822);
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.details h2{
+    font-size: 30px;
+}
+
+
+.button{
+    text-decoration: none;
+    color: #fff;
+    background: rgba(238, 2, 100, 0.822);
+    padding: 10px 30px 10px 30px;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+    border-radius: 5px;
+}
+
+p{
+    padding: 20px 0 20px 0;
+    line-height: 40px;
+}
+
+.under{
+    padding-top: 15%;
+    padding-left: 6%;
+}
+
+section{
+    height: 700px;
+}
+
+.dream{
+    background: url("images/biography-bg.png");
+    background: 100%;
+}
+
+#bio{
+    color: #000;
+}
+
+.center{
+    text-align: center;
+}
+
+.last-work{
+    background: url("images/latest-work-bg.png");
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position: right;
+    width: 100%;
+    height: 500px;
+
+    
+}
+
+.work-pic{
+    float: left;
+    margin-left: 20%;
+    display: inline-block;
+    position: center;
+    
+}
+
+#f{
+    height: 20%;
+    width: 23%;
+    margin-top: 148px;
+    margin-left: 80px;
+}
