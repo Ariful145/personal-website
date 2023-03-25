@@ -87,7 +87,7 @@ section{
 }
 
 .work-pic{
-    float: left;
+    
     margin-left: 20%;
     display: inline-block;
     position: center;
@@ -99,4 +99,62 @@ section{
     width: 23%;
     margin-top: 148px;
     margin-left: 80px;
+}
+
+.footer{
+    background: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 85% 70%;
+    width: 100%;
+    
+}
+
+.report{
+    text-align: center;
+}
+
+span{
+    color: gray;   
+}
+
+.txtsize{
+    font-size: 12px;
+    line-height: 17px;
+}
+
+.latter{
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.adrs{
+    color: #fff;
+    background: rgba(235, 4, 131, 0.89);
+    text-align: center;
+    justify-content: center;
+    width: 400px;
+    margin-left: 35%;
+    border-radius: 10px;
+    padding: 0px 10px 0px 10px;
+    height: 100px;
+    
+    
+}
+
+.adrs p{
+    line-height: 1px;
+    font-size: 17px;
+}
+
+#sms{
+    font-size: 10px;
+    color: #fff;
+    
+}
+
+footer{
+    color: grey;
+    text-align: center;
+    font-size: 15px;
+    height: fit-content;
 }
